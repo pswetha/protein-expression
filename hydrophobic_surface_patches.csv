@@ -1,0 +1,9 @@
+chain,resname,resseq,aa,rsa,neighbor_count
+A,LEU,40,L,0.396,2
+A,PHE,42,F,0.381,2
+A,VAL,91,V,0.493,2
+A,LEU,94,L,0.494,2
+A,PHE,103,F,0.614,2
+A,MET,104,M,0.92,2
+A,TYR,107,Y,0.297,2
+A,ALA,108,A,0.33,2
